@@ -1,7 +1,8 @@
 ## Hi there, I'm Lucca 👋
 
-### I'm a high school student
+### I'm a 16 year old brazilian developer
 
+- 🎈 I learnt how to code by my self  
 - 🌐 I’m currently working on a [Chrome Extension][risk]!
 - 📕 I’m currently learning a lot of things 🤣
 - 👯 I’m looking to collaborate with other coders
