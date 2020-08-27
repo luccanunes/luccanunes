@@ -1,6 +1,6 @@
-### Hi there, I'm Lucca 👋
+## Hi there, I'm Lucca 👋
 
-## I'm a high school student
+### I'm a high school student
 
 - 🌐 I’m currently working on a [Chrome Extension][risk]!
 - 📕 I’m currently learning a lot of things 🤣
