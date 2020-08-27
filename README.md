@@ -6,7 +6,7 @@
 - 🌐 I’m currently working on a [Chrome Extension][risk]!
 - 📕 I’m currently learning a lot of things 🤣
 - 👯 I’m looking to collaborate with other coders
-- ⚡ Fun fact: I love to play video games and play the guitar
+- ⚡ Fun fact: I love playing video games and playing the guitar
 
 ### I'm listening to... 🎧
 
