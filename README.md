@@ -10,7 +10,7 @@
 
 ### I'm listening to... 🎧
 
-<img src="https://spotify-now-playing-lake.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />
+<img src="https://spotify-now-playing-lake.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
 
 ### Languages and Tools I use:
 
