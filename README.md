@@ -42,9 +42,9 @@
 
 <br />
 
-### Stats
+[//]: <> (### Stats)
 
-<img align="left" src="https://github-readme-stats-chi-henna.vercel.app/api/top-langs/?username=luccanunes&layout=compact" />
+[//]: <> (<img align="left" src="https://github-readme-stats-chi-henna.vercel.app/api/top-langs/?username=luccanunes&layout=compact" />)
 
 
 
