@@ -40,9 +40,7 @@
 <img align="left" alt="BIRL" width="26px" src="https://birl-language.github.io/images/birl2.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
-<br/>
-
-<img src="https://github-readme-stats-chi-henna.vercel.app/api/top-langs/?username=luccanunes" />
+<img align="left" src="https://github-readme-stats-chi-henna.vercel.app/api/top-langs/?username=luccanunes&layout=compact" />
 
 
 [risk]: https://chrome.google.com/webstore/detail/risk/akekmigldbmkkjihbcjkidlbfeihcnod
