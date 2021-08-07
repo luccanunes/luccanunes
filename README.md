@@ -1,12 +1,12 @@
 ## Hi there, I'm Lucca 👋
 
-### I'm a 16 year old brazilian developer
+### I'm a 17 year old brazilian developer
 
 - 🎈 I learnt how to code by my self  
 - 🌐 I’m currently working on a [Chrome Extension][risk] and a [Discord library](https://github.com/luccanunes/discord.cpp)!
 - 📕 I’m currently learning a lot of things 🤣
 - 👯 I’m looking to collaborate with other coders
-- ⚡ Fun fact: I love playing video games and playing the guitar
+- ⚡ I extremely enjoy competitive programming (although I'm not great at it)
 
 ### I'm listening to... 🎧
 
