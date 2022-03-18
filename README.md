@@ -4,7 +4,7 @@
 
 - 🎈 I learnt how to code by my self  
 - 🌐 I’m currently working on a [Chrome Extension][risk] and a [Discord library](https://github.com/luccanunes/discord.cpp)!
-- 📕 I’m currently learning a lot of things 🤣
+- 📕 I study Computer Science at [Unicamp](https://www.unicamp.br/unicamp/)
 - 👯 I’m looking to collaborate with other coders
 - ⚡ I extremely enjoy competitive programming (although I'm not great at it)
 
