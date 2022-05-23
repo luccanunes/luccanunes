@@ -8,9 +8,6 @@
 - 📍 I was born in Salvador - Bahia, but moved to Campinas - São Paulo so I could study at Unicamp
 - ⚡ I extremely enjoy competitive programming (although I'm not great at it)
 
-### I'm listening to... 🎧
-
-<img src="https://spotify-now-playing-lake.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />
 
 ### Languages and Tools I use:
 
