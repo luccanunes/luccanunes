@@ -2,11 +2,10 @@
 
 ### I'm a 18 year old brazilian developer
 
-- 🎈 I learnt how to code by my self  
 - 🌐 I’m currently working on a [Chrome Extension][risk] and a [Discord library](https://github.com/luccanunes/discord.cpp)!
 - 📕 I study Computer Science at [Unicamp](https://www.unicamp.br/unicamp/)
-- 📍 I was born in Salvador - Bahia, but moved to Campinas - São Paulo so I could study at Unicamp
-- ⚡ I extremely enjoy competitive programming (although I'm not great at it)
+- 📍 I was born in Salvador - Bahia
+- 🎈 I really enjoy competitive programming (although I'm not great at it)
 
 
 ### Languages and Tools I use:
